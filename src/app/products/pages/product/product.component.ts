@@ -10,7 +10,7 @@ export class ProductComponent implements OnInit, OnChanges, DoCheck, AfterConten
   public isProductVisible: boolean= false;
   public currentprice:number = 10;
 
-
+// fin
   constructor(){
     console.log('Constructor')
   }
